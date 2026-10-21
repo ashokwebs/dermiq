@@ -1,6 +1,7 @@
 # 💄 DermIQ — Clinical AI Skin Health & Smart Cosmetic Matcher
 
 Submitted for the **YouCam API Skin AI & eCommerce VTO Hackathon** on Devpost ([Event Page](https://youcam-api-skin-ai-ecommerce.devpost.com/)).  
+**Live Demo:** [https://dermiq-one.vercel.app](https://dermiq-one.vercel.app)  
 **Applicant Profile:** Solo Developer / Student Track ($1,000 Student Award)  
 
 ---
